@@ -18,7 +18,7 @@ const Header = () => {
                            <input
                              type="text"
                              placeholder="Search for a location..."
-                             className="pl-12 pr-32 py-4 sm:w-full md:3/4 rounded-full bg-white"
+                             className="pl-12 pr-32 py-4 w-full rounded-full bg-white"
                            />
                      
                      <button className='bg-primary text-white px-4 py-2 rounded-full -ml-28 hover:bg-pan  md:-ml-32' type='sumbit'>Continue</button>
